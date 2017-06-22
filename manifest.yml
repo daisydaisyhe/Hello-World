@@ -1,0 +1,4 @@
+---
+application:
+- name: daisy-app
+  memory: 2G
